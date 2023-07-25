@@ -4,11 +4,11 @@
 
 ## 👓 I'm looking to collaborate on Open Source, Web Development, or more real-life projects.
 
-## 🌱 I'm currently learning AI and neural engines with ML and scripting for automation.
+## 🌱 I'm currently learning Android Studio and ML for automation.
 
 ## 🎙 Ask me about anything, and I'll gladly have a conversation.
 
-## ⚡ Fun fact if you play video games we are already friends
+## ⚡ Fun fact: if you play video games, we are already friends
 
 # 🌐Socials
 
