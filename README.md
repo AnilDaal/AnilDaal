@@ -34,4 +34,3 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=AnilDaal&icon=0&color=1)](https://visitcount.itsvg.in)
