@@ -1,14 +1,9 @@
 # 💫About Me :
 
-## 🔭 I'm working on React, Nodejs, Javascript, Python, or Android Studio.
+## 🔭Hey, I'm Anil
 
-## 👓 I'm looking to collaborate on Open Source, Web Development, or more real-life projects.
+## A full-stack developer and creative technologist turning ideas into sleek, responsive, and animated digital platforms. I merge frontend finesse with backend logic to build experiences that connect and empower.
 
-## 🌱 I'm currently learning Android Studio and ML for automation.
-
-## 🎙 Ask me about anything, and I'll gladly have a conversation.
-
-## ⚡ Fun fact: if you play video games, we are already friends
 
 # 🌐Socials
 
